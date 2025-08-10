@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **jojinn1709@gmail.com** For Collaboration/Project or Anyth
 - 🔭 **I’m currently working on:** my BCA studies and personal coding projects
 - 🌱 **I’m currently learning:** Python, Git, Full-Stack Development, and Cybersecurity while building small projects to practice my skills.
 - 👯 **I’m looking to collaborate on:** open-source projects related to Python, web development, or cybersecurity, especially beginner-friendly contributions.
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** 🛠 Looking for help with improving my coding skills, contributing to open-source, and exploring cybersecurity tools.
 - 💬 **Ask me about:**  Ethical Hacking, Cybersecurity, Python Development, Full Stack Web Development, Cloud Computing, UI/UX Design, Creative Tools (Blender, Photoshop, Premiere Pro)
 - 📫 **How to reach me:** Jojinn1709@gmail.com
 - 😄 **Pronouns:** Jojin John (He/Him)
