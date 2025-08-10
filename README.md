@@ -7,10 +7,10 @@ Email Me 👉 ✉️ **jojinn1709@gmail.com** For Collaboration/Project or Anyth
 - 🌱 **I’m currently learning:** Enter your tech here
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 💬 **Ask me about:**  Ethical Hacking, Cybersecurity, Python Development, Full Stack Web Development, Cloud Computing, UI/UX Design, Creative Tools (Blender, Photoshop, Premiere Pro)
+- 📫 **How to reach me:** Jojinn1709@gmail.com
+- 😄 **Pronouns:** Jojin john
+- ⚡ **Fun fact:** "Knows the difference between hacking for good and hacking for snacks… usually.”
 
 - <!-- Snake Game Repo View -->
 
