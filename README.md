@@ -3,13 +3,13 @@
 
 Email Me 👉 ✉️ **jojinn1709@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🔭 **I’m currently working on:** my BCA studies and personal coding projects
+- 🌱 **I’m currently learning:** Python, Git, Full-Stack Development, and Cybersecurity while building small projects to practice my skills.
+- 👯 **I’m looking to collaborate on:** open-source projects related to Python, web development, or cybersecurity, especially beginner-friendly contributions.
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:**  Ethical Hacking, Cybersecurity, Python Development, Full Stack Web Development, Cloud Computing, UI/UX Design, Creative Tools (Blender, Photoshop, Premiere Pro)
 - 📫 **How to reach me:** Jojinn1709@gmail.com
-- 😄 **Pronouns:** Jojin john
+- 😄 **Pronouns:** Jojin John (He/Him)
 - ⚡ **Fun fact:** "Knows the difference between hacking for good and hacking for snacks… usually.”
 
 - <!-- Snake Game Repo View -->
