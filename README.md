@@ -120,21 +120,37 @@
 
 ---
 
-# 🛠️ Skills
-
+## 🛠️ Skills
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 
-### **💻 Programming**
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,typescript" />
+<h3>💻 Programming</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c" />
+<br/><br/>
+
+<h3>🌐 MERN Stack</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+<br/><br/>
 
 </td>
+
 <td width="50%" align="center">
 
-### **⚙ Frameworks**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind" />
+<h3>⚙ Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap" />
+<br/><br/>
+
+<h3>🛡 Cybersecurity & Ethical Hacking</h3>
+<img src="https://skillicons.dev/icons?i=kali,linux" />
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FFUF-444?style=for-the-badge" />
+</p>
 
 </td>
 </tr>
@@ -142,20 +158,25 @@
 <tr>
 <td width="50%" align="center">
 
-### **🗄 Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<h3>☁️ Cloud & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,github,jenkins" />
+<br/><br/>
 
 </td>
+
 <td width="50%" align="center">
 
-### **🧰 Tools**
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,gcp,postman,figma" />
+<h3>🗄 Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+<br/><br/>
+
+<h3>🧰 Tools</h3>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
 
 </td>
 </tr>
 </table>
 </p>
-
 ---
 
 # 🔐 Cybersecurity Stack
