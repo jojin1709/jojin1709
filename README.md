@@ -5,15 +5,14 @@
   Hi, I'm <strong>Jojin JOHN</strong>
 </h1>
 
-<h3>Full-Stack Developer | Bug Bounty Hunter | DevSecOps Learner</h3>
+<h3>Full-Stack Developer (MERN) | Cybersecurity & Ethical Hacking Enthusiast | Cloud & DevOps Learner | Bug Bounty Hunter</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a BCA student and security-focused full-stack developer who blends software engineering with offensive security.
-    I work on building scalable apps, breaking insecure systems, and integrating DevSecOps practices into real-world workflows.  
-    Currently active in Bug Bounty, Cloud Computing, and Secure Web App Development.
+    I'm a BCA student and security-focused full-stack developer blending software engineering, cybersecurity, and DevOps.
+    I build scalable MERN applications, break insecure systems to secure them, and currently work on Cloud, Bug Bounty, and DevSecOps practices.
   </p>
 
   <p>
@@ -67,10 +66,11 @@
 # 📝 About Me
 - 🎓 **BCA Student (University of Calicut)**  
 - 💻 **Full-Stack Developer (MERN / PERN)**  
-- 🔐 **Bug Bounty Hunter at YesWeHack**  
+- 🔐 **Cybersecurity & Ethical Hacking Enthusiast**  
+- 🕵️ **Bug Bounty Hunter (YesWeHack)**  
 - ☁️ **Cloud & DevOps Learner (GCP, Docker, CI/CD)**  
-- 🛡 Interested in **Web App Security, SOC Analysis, Red Teaming**  
-- 🎥 Running a cybersecurity YouTube channel: **404 Secure**
+- 🛡 Passion for **Web App Security, SOC Analysis, Red Teaming**  
+- 🎥 Creator of **404 Secure — Cybersecurity YouTube Channel**
 
 ---
 
@@ -79,48 +79,43 @@
 ## **🔹 Independent Security Researcher — YesWeHack**
 **March 2025 – Present**  
 - Reporting vulnerabilities in web & API programs  
-- OWASP Top 10, Auth/Access control testing  
+- OWASP Top 10, access control testing  
 - Tools: Burp Suite, Nmap, FFUF, OSINT  
 - Delivered valid accepted reports  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
 ## **🔹 Full Stack Development Intern — Codveda Technologies**
 **Nov 2025 – Dec 2025**  
-- Built REST APIs, MERN stack apps  
+- Built REST APIs & MERN projects  
 - Authentication + DB integration  
 - Deployment & optimization  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
 ## **🔹 Cyber Security Intern — Future Interns**
 **Nov 2025**  
-- Performed SQLi, XSS, Auth bypass testing  
-- SIEM alert monitoring (Splunk, ELK)  
-- Built AES-based secure file sharing system  
-:contentReference[oaicite:3]{index=3}
+- SQLi, XSS, Auth bypass testing  
+- SIEM monitoring (Splunk, ELK)  
+- Built AES-based secure file-sharing system  
 
 ---
 
 ## **🔹 Web Development Intern — CodSoft**
 **Nov 2025**  
-- Frontend development tasks  
+- Frontend projects  
 - HTML, CSS, JS, UI building  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
-## **🔹 Google Cloud Arcade Facilitator'25 — GCP**
+## **🔹 Google Cloud Arcade Facilitator'25**
 **Apr 2025 – Jul 2025**  
 - Guided students on GCP labs  
-- Kubernetes, Cloud Run, AI/ML demos  
-:contentReference[oaicite:5]{index=5}
+- Kubernetes, Cloud Run, AI/ML  
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 <p align="center">
 <table>
 <tr>
@@ -143,8 +138,7 @@
 <br/><br/>
 
 <h3>🛡 Cybersecurity & Ethical Hacking</h3>
-<img src="https://skillicons.dev/icons?i=kali,linux" />
-<br/>
+<img src="https://skillicons.dev/icons?i=kali,linux" /><br/>
 <p>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge" />
@@ -177,14 +171,15 @@
 </tr>
 </table>
 </p>
+
 ---
 
 # 🔐 Cybersecurity Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FFUF-333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000?style=for-the-badge" />
+  <img src="https://img.shields.io-badge/FFUF-333?style=for-the-badge" />
+  <img src="https://img.shields.io-badge/OWASP_ZAP-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kali_Linux-557?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OSINT_Tools-999?style=for-the-badge" />
 </p>
@@ -197,7 +192,6 @@
 - Certified Phishing Prevention Specialist (CPPS)  
 - Cybersecurity Fundamentals  
 - AI Aware Badge  
-:contentReference[oaicite:6]{index=6}
 
 ---
 
