@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
 
-  <a href="https://www.instagram.com/mr_jojin_inx/">
+  <a href="https://www.instagram.com/mr">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge" />
   </a>
 
